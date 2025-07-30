@@ -1,0 +1,11 @@
+{
+  "addPost": "wall.post?&owner_id=%s&message=%s",
+  "deletePost": "wall.delete?&owner_id=%s&post_id=%s",
+  "users": "users.get?",
+  "editPost": "wall.edit?owner_id=%s&post_id=%s&message=%s&attachment=%s",
+  "uploadPhotoUrl": "photos.getWallUploadServer?owner_id=%s",
+  "saveWallPhoto": "photos.saveWallPhoto?server=%s&photo=%s&hash=%s",
+  "createComment": "wall.createComment?owner_id=%s&post_id=%s&message=%s",
+  "likes": "likes.getList?type=post&owner_id=%s&item_id=%s",
+  "photo": "photos.getById?photos=%s_%s"
+}
