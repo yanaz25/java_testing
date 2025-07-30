@@ -1,0 +1,17 @@
+{
+  "url": "",
+  "user": "",
+  "password": "",
+  "sessionId": 1,
+  "browser": "chrome",
+  "env": "ZUBKOVAYA",
+  "dateFormat": "YYYY-MM-dd HH:mm:ss",
+  "author": {
+    "name": "Zubkova",
+    "login": "zubkova.ya",
+    "email": "jzub25@gmail.com"
+  },
+  "project": {
+    "name": "tquality_education"
+  }
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DBTests">
+    <test name="Verify that tests information can be updated">
+        <classes>
+            <class name="UpdateTests"/>
+        </classes>
+    </test>
+    <test name="Verify that test information can be inserted">
+        <classes>
+            <class name="InsertTests"/>
+        </classes>
+    </test>
+</suite>
