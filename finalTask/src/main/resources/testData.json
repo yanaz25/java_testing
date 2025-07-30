@@ -1,0 +1,14 @@
+{
+  "variant": 1,
+  "project": "Nexage",
+  "saveProjectText": "Project %s saved",
+  "textLength": 10,
+  "sessionId": 1,
+  "browser": "chrome",
+  "env": "ZUBKOVAYA",
+  "author": {
+    "name": "Zubkova",
+    "login": "zubkova.ya",
+    "email": "jzub25@gmail.com"
+  }
+}

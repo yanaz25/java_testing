@@ -1,0 +1,10 @@
+{
+  "url": "http://%s:%s@localhost:8080/web/",
+  "db": "jdbc:mysql://localhost:3307/union_reporting",
+  "apiUrl": "http://localhost:8080/api/",
+  "token": "token/get",
+  "user": "",
+  "password": "",
+  "cookieName": "token",
+  "dateFormat": "yyyy-MM-dd HH:mm:ss"
+}

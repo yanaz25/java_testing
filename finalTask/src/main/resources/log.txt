@@ -1,0 +1,10 @@
+2024-05-21 11:39:14 INFO - Browser 'CHROME' ready...
+2024-05-21 11:39:14 INFO - Maximizing browser window
+2024-05-21 11:39:14 INFO - Navigate to url - 'http://login:password@localhost:8080/web/'
+2024-05-21 11:39:14 INFO - Waiting for page to load
+2024-05-21 11:39:15 INFO - Label 'projects page' :: Waiting for element to be displayed
+2024-05-21 11:39:15 INFO - Refreshing the page
+2024-05-21 11:39:15 INFO - Label 'version' :: Getting text from element
+2024-05-21 11:39:15 INFO - Label 'version' :: Element's text: [Reporting test portal. Version: 1]
+2024-05-21 11:39:15 INFO - Button 'Nexage' :: Clicking
+2024-05-21 11:39:20 INFO - Label 'project' :: Waiting for element to be displayed
