@@ -1,0 +1,7 @@
+{
+  "url": "https://jsonplaceholder.typicode.com",
+  "testDataPath": "src\\test\\resources\\testData.json",
+  "testUserPath": "src\\test\\resources\\testUser.json",
+  "postsPath": "src\\test\\resources\\allPosts.json",
+  "contentType": "application/json"
+}

@@ -1,0 +1,6 @@
+{
+  "posts": "/posts",
+  "postNum": "/posts/%d",
+  "users": "/users",
+  "userNum": "/users/%d"
+}
